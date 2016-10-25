@@ -1,0 +1,21 @@
+[submodule "lua"]
+	path = lua
+	url = https://github.com/LuaDist/lua.git
+[submodule "luafilesystem"]
+	path = luafilesystem
+	url = https://github.com/LuaDist/luafilesystem.git
+[submodule "luadist-git"]
+	path = luadist-git
+	url = https://github.com/LuaDist/luadist-git.git
+[submodule "srlua"]
+	path = srlua
+	url = https://github.com/LuaDist/srlua.git
+[submodule "lua-git"]
+	path = lua-git
+	url = https://github.com/LuaDist/lua-git.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/LuaDist/zlib.git
+[submodule "luasocket"]
+	path = luasocket
+	url = https://github.com/LuaDist/luasocket.git
